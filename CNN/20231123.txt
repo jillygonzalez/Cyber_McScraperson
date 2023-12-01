@@ -1,0 +1,125 @@
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_070000_CNN_Newsroom_Live
+Image: https://archive.org/download/CNNW_20231124_070000_CNN_Newsroom_Live/__ia_thumb.jpg
+Description: November 23, 2023 11:00pm-12:00am PST: CNN Newsroom Live
+StartTime: 1700809200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_060000_CNN_Newsroom_Live
+Image: https://archive.org/download/CNNW_20231124_060000_CNN_Newsroom_Live/__ia_thumb.jpg
+Description: November 23, 2023 10:00pm-11:01pm PST: CNN Newsroom Live
+StartTime: 1700805600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_050000_CNN_Newsroom_Live
+Image: https://archive.org/download/CNNW_20231124_050000_CNN_Newsroom_Live/__ia_thumb.jpg
+Description: November 23, 2023 9:00pm-10:01pm PST: CNN Newsroom Live
+StartTime: 1700802000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_040000_The_Whole_Story_With_Anderson_Cooper
+Image: https://archive.org/download/CNNW_20231124_040000_The_Whole_Story_With_Anderson_Cooper/__ia_thumb.jpg
+Description: November 23, 2023 8:00pm-9:01pm PST: The Whole Story With Anderson Cooper
+StartTime: 1700798400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_030000_The_Source_With_Kaitlan_Collins
+Image: https://archive.org/download/CNNW_20231124_030000_The_Source_With_Kaitlan_Collins/__ia_thumb.jpg
+Description: November 23, 2023 7:00pm-8:01pm PST: The Source With Kaitlan Collins
+StartTime: 1700794800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_020000_The_Source_With_Kaitlan_Collins
+Image: https://archive.org/download/CNNW_20231124_020000_The_Source_With_Kaitlan_Collins/__ia_thumb.jpg
+Description: November 23, 2023 6:00pm-7:01pm PST: The Source With Kaitlan Collins
+StartTime: 1700791200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_010000_The_Source_With_Kaitlan_Collins
+Image: https://archive.org/download/CNNW_20231124_010000_The_Source_With_Kaitlan_Collins/__ia_thumb.jpg
+Description: November 23, 2023 5:00pm-6:00pm PST: The Source With Kaitlan Collins
+StartTime: 1700787600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231124_000000_The_Situation_Room_With_Wolf_Blitzer
+Image: https://archive.org/download/CNNW_20231124_000000_The_Situation_Room_With_Wolf_Blitzer/__ia_thumb.jpg
+Description: November 23, 2023 4:00pm-5:01pm PST: The Situation Room With Wolf Blitzer
+StartTime: 1700784000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_230000_The_Situation_Room_With_Wolf_Blitzer
+Image: https://archive.org/download/CNNW_20231123_230000_The_Situation_Room_With_Wolf_Blitzer/__ia_thumb.jpg
+Description: November 23, 2023 3:00pm-4:01pm PST: The Situation Room With Wolf Blitzer
+StartTime: 1700780400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_220000_The_Situation_Room_With_Wolf_Blitzer
+Image: https://archive.org/download/CNNW_20231123_220000_The_Situation_Room_With_Wolf_Blitzer/__ia_thumb.jpg
+Description: November 23, 2023 2:00pm-3:01pm PST: The Situation Room With Wolf Blitzer
+StartTime: 1700776800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_210000_CNN_News_Central
+Image: https://archive.org/download/CNNW_20231123_210000_CNN_News_Central/__ia_thumb.jpg
+Description: November 23, 2023 1:00pm-2:01pm PST: CNN News Central
+StartTime: 1700773200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_200000_CNN_News_Central
+Image: https://archive.org/download/CNNW_20231123_200000_CNN_News_Central/__ia_thumb.jpg
+Description: November 23, 2023 12:00pm-1:00pm PST: CNN News Central
+StartTime: 1700769600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_190000_CNN_News_Central
+Image: https://archive.org/download/CNNW_20231123_190000_CNN_News_Central/__ia_thumb.jpg
+Description: November 23, 2023 11:00am-12:00pm PST: CNN News Central
+StartTime: 1700766000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_180000_CNN_News_Central
+Image: https://archive.org/download/CNNW_20231123_180000_CNN_News_Central/__ia_thumb.jpg
+Description: November 23, 2023 10:00am-11:00am PST: CNN News Central
+StartTime: 1700762400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_170000_Inside_Politics_With_Dana_Bash
+Image: https://archive.org/download/CNNW_20231123_170000_Inside_Politics_With_Dana_Bash/__ia_thumb.jpg
+Description: November 23, 2023 9:00am-10:01am PST: Inside Politics With Dana Bash
+StartTime: 1700758800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_160000_CNN_News_Central
+Image: https://archive.org/download/CNNW_20231123_160000_CNN_News_Central/__ia_thumb.jpg
+Description: November 23, 2023 8:00am-9:01am PST: CNN News Central
+StartTime: 1700755200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_150000_CNN_News_Central
+Image: https://archive.org/download/CNNW_20231123_150000_CNN_News_Central/__ia_thumb.jpg
+Description: November 23, 2023 7:00am-8:00am PST: CNN News Central
+StartTime: 1700751600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_140000_CNN_News_Central
+Image: https://archive.org/download/CNNW_20231123_140000_CNN_News_Central/__ia_thumb.jpg
+Description: November 23, 2023 6:00am-7:01am PST: CNN News Central
+StartTime: 1700748000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_130000_CNN_This_Morning
+Image: https://archive.org/download/CNNW_20231123_130000_CNN_This_Morning/__ia_thumb.jpg
+Description: November 23, 2023 5:00am-6:01am PST: CNN This Morning
+StartTime: 1700744400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_120000_CNN_This_Morning
+Image: https://archive.org/download/CNNW_20231123_120000_CNN_This_Morning/__ia_thumb.jpg
+Description: November 23, 2023 4:00am-5:01am PST: CNN This Morning
+StartTime: 1700740800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_110000_CNN_This_Morning
+Image: https://archive.org/download/CNNW_20231123_110000_CNN_This_Morning/__ia_thumb.jpg
+Description: November 23, 2023 3:00am-4:01am PST: CNN This Morning
+StartTime: 1700737200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_100000_Early_Start_With_Kasie_Hunt
+Image: https://archive.org/download/CNNW_20231123_100000_Early_Start_With_Kasie_Hunt/__ia_thumb.jpg
+Description: November 23, 2023 2:00am-3:01am PST: Early Start With Kasie Hunt
+StartTime: 1700733600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_090000_CNN_Newsroom_Live
+Image: https://archive.org/download/CNNW_20231123_090000_CNN_Newsroom_Live/__ia_thumb.jpg
+Description: November 23, 2023 1:00am-2:01am PST: CNN Newsroom Live
+StartTime: 1700730000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_080000_Laura_Coates_Live
+Image: https://archive.org/download/CNNW_20231123_080000_Laura_Coates_Live/__ia_thumb.jpg
+Description: November 23, 2023 12:00am-1:01am PST: Laura Coates Live
+StartTime: 1700726400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=CNNW_20231123_070000_CNN_NewsNight_With_Abby_Phillip
+Image: https://archive.org/download/CNNW_20231123_070000_CNN_NewsNight_With_Abby_Phillip/__ia_thumb.jpg
+Description: November 22, 2023 11:00pm-12:00am PST: CNN NewsNight With Abby Phillip
+StartTime: 1700722800
+

@@ -1,0 +1,10 @@
+sentence-transformers==2.2.2
+selenium==4.14.0
+ipython==8.16.1
+torch==2.1.0
+requests==2.31.0
+tqdm==4.66.1
+beautifulsoup4==4.12.2
+pandas==2.1.1
+numpy==1.26.1
+openpyxl==3.1.2

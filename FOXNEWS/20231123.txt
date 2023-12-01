@@ -1,0 +1,115 @@
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231124_060000_Fox_Nation_Presents_The_Patriot_Awards_2023
+Image: https://archive.org/download/FOXNEWSW_20231124_060000_Fox_Nation_Presents_The_Patriot_Awards_2023/__ia_thumb.jpg
+Description: November 23, 2023 10:00pm-12:00am PST: Fox Nation Presents The Patriot Awards 2023
+StartTime: 1700805600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231124_050000_The_Five
+Image: https://archive.org/download/FOXNEWSW_20231124_050000_The_Five/__ia_thumb.jpg
+Description: November 23, 2023 9:00pm-10:00pm PST: The Five
+StartTime: 1700802000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231124_040000_Special_Report_With_Bret_Baier
+Image: https://archive.org/download/FOXNEWSW_20231124_040000_Special_Report_With_Bret_Baier/__ia_thumb.jpg
+Description: November 23, 2023 8:00pm-9:00pm PST: Special Report With Bret Baier
+StartTime: 1700798400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231124_030000_Gutfeld
+Image: https://archive.org/download/FOXNEWSW_20231124_030000_Gutfeld/__ia_thumb.jpg
+Description: November 23, 2023 7:00pm-8:00pm PST: Gutfeld!
+StartTime: 1700794800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231124_010000_Fox_Nation_Presents_The_Patriot_Awards_2023
+Image: https://archive.org/download/FOXNEWSW_20231124_010000_Fox_Nation_Presents_The_Patriot_Awards_2023/__ia_thumb.jpg
+Description: November 23, 2023 5:00pm-7:00pm PST: Fox Nation Presents The Patriot Awards 2023
+StartTime: 1700787600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231124_000000_The_Ingraham_Angle
+Image: https://archive.org/download/FOXNEWSW_20231124_000000_The_Ingraham_Angle/__ia_thumb.jpg
+Description: November 23, 2023 4:00pm-5:00pm PST: The Ingraham Angle
+StartTime: 1700784000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_230000_Special_Report_With_Bret_Baier
+Image: https://archive.org/download/FOXNEWSW_20231123_230000_Special_Report_With_Bret_Baier/__ia_thumb.jpg
+Description: November 23, 2023 3:00pm-4:00pm PST: Special Report With Bret Baier
+StartTime: 1700780400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_220000_The_Five
+Image: https://archive.org/download/FOXNEWSW_20231123_220000_The_Five/__ia_thumb.jpg
+Description: November 23, 2023 2:00pm-3:00pm PST: The Five
+StartTime: 1700776800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_210000_Your_World_With_Neil_Cavuto
+Image: https://archive.org/download/FOXNEWSW_20231123_210000_Your_World_With_Neil_Cavuto/__ia_thumb.jpg
+Description: November 23, 2023 1:00pm-2:00pm PST: Your World With Neil Cavuto
+StartTime: 1700773200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_200000_Fox_News_Live
+Image: https://archive.org/download/FOXNEWSW_20231123_200000_Fox_News_Live/__ia_thumb.jpg
+Description: November 23, 2023 12:00pm-1:00pm PST: Fox News Live
+StartTime: 1700769600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_190000_Fox_News_Live
+Image: https://archive.org/download/FOXNEWSW_20231123_190000_Fox_News_Live/__ia_thumb.jpg
+Description: November 23, 2023 11:00am-12:00pm PST: Fox News Live
+StartTime: 1700766000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_180000_Fox_News_Live
+Image: https://archive.org/download/FOXNEWSW_20231123_180000_Fox_News_Live/__ia_thumb.jpg
+Description: November 23, 2023 10:00am-11:00am PST: Fox News Live
+StartTime: 1700762400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_170000_Outnumbered
+Image: https://archive.org/download/FOXNEWSW_20231123_170000_Outnumbered/__ia_thumb.jpg
+Description: November 23, 2023 9:00am-10:00am PST: Outnumbered
+StartTime: 1700758800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_160000_Fox_News_Live
+Image: https://archive.org/download/FOXNEWSW_20231123_160000_Fox_News_Live/__ia_thumb.jpg
+Description: November 23, 2023 8:00am-9:00am PST: Fox News Live
+StartTime: 1700755200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_150000_Fox_News_Live
+Image: https://archive.org/download/FOXNEWSW_20231123_150000_Fox_News_Live/__ia_thumb.jpg
+Description: November 23, 2023 7:00am-8:00am PST: Fox News Live
+StartTime: 1700751600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_140000_Fox_News_Live
+Image: https://archive.org/download/FOXNEWSW_20231123_140000_Fox_News_Live/__ia_thumb.jpg
+Description: November 23, 2023 6:00am-7:00am PST: Fox News Live
+StartTime: 1700748000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_130000_FOX_and_Friends
+Image: https://archive.org/download/FOXNEWSW_20231123_130000_FOX_and_Friends/__ia_thumb.jpg
+Description: November 23, 2023 5:00am-6:01am PST: FOX and Friends
+StartTime: 1700744400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_120000_FOX_and_Friends
+Image: https://archive.org/download/FOXNEWSW_20231123_120000_FOX_and_Friends/__ia_thumb.jpg
+Description: November 23, 2023 4:00am-5:00am PST: FOX and Friends
+StartTime: 1700740800
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_110000_FOX_and_Friends
+Image: https://archive.org/download/FOXNEWSW_20231123_110000_FOX_and_Friends/__ia_thumb.jpg
+Description: November 23, 2023 3:00am-4:00am PST: FOX and Friends
+StartTime: 1700737200
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_100000_FOX__Friends_First
+Image: https://archive.org/download/FOXNEWSW_20231123_100000_FOX__Friends_First/__ia_thumb.jpg
+Description: November 23, 2023 2:00am-3:00am PST: FOX & Friends First
+StartTime: 1700733600
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_090000_The_Ingraham_Angle
+Image: https://archive.org/download/FOXNEWSW_20231123_090000_The_Ingraham_Angle/__ia_thumb.jpg
+Description: November 23, 2023 1:00am-2:00am PST: The Ingraham Angle
+StartTime: 1700730000
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_080000_Gutfeld
+Image: https://archive.org/download/FOXNEWSW_20231123_080000_Gutfeld/__ia_thumb.jpg
+Description: November 23, 2023 12:00am-1:00am PST: Gutfeld!
+StartTime: 1700726400
+
+Link: https://api.gdeltproject.org/api/v2/tvv/tvv?id=FOXNEWSW_20231123_070000_Hannity
+Image: https://archive.org/download/FOXNEWSW_20231123_070000_Hannity/__ia_thumb.jpg
+Description: November 22, 2023 11:00pm-12:00am PST: Hannity
+StartTime: 1700722800
+

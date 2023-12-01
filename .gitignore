@@ -1,0 +1,6 @@
+.venv
+__pycache__
+.env
+/*/extracted_images
+/*/pickle_folder
+/start_times.txt
